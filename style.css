@@ -1,0 +1,23 @@
+button {
+    margin-left: 20px;
+    background: rgb(44, 190, 235);
+    border-radius: 10px;
+    font-size: 22px;       
+}
+
+.card {
+    width: 200px;
+    padding: 20px 20px;
+    text-align: center;
+    display: block;
+    background: rgb(114, 226, 129);
+    border: 2px solid rgb(234, 125, 205);
+    border-radius: 10px;
+}
+
+.list {    
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin: 20px;
+}
